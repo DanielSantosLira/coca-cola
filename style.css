@@ -54,8 +54,8 @@ header .navagation li a{
     color: #fff;
     font-weight: 900;
     text-decoration: none;
-    font-size: 35px;
-    margin-left: 150px;
+    font-size: 20px;
+    margin-left: 100px;
 
 }
 .conteiner{
@@ -88,10 +88,10 @@ header .navagation li a{
 .conteiner .text a{
     display: inline-block;
     margin-top: 100px;
-    padding: 10px 25px;
+    padding: 15px 25px;
     background: #121212;
     color: #fff;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: 1px;
     text-decoration: none;
     border-radius: 40px;
@@ -139,7 +139,7 @@ header .navagation li a{
     bottom: -40px;
 }
 .boximg img{
-    width: 250px ;
+    width: 150px ;
 }
 .boximg .img1{
     transform: rotate(-15deg);
